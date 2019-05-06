@@ -1,3 +1,2 @@
-# simple_clock
-a simple clock made in processing
-boh, download and enjoy
+# simple clock
+un semplice orologio analogico per pc.
