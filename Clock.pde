@@ -6,6 +6,7 @@ float clockDiameter;
 
 void setup() {
   size(500, 500);
+  surface.SetResizable(true);
   stroke(255);
   
   int radius = min(width, height) / 2;
