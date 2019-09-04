@@ -1,2 +1,2 @@
 # simple clock
-un semplice orologio analogico per pc.
+a simple analog clock for pc
